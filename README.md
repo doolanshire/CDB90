@@ -12,12 +12,11 @@ The aim of this personal project is the analysis and future expansion of the dat
 
 * **data**: directory containing the CSV files, as cleaned up by jrnold.
 * **src-data**: the original dataset also as presented by jrnold.
-* **CDB90.db**: a unified SQLite database compiled by me from the CSV files, with the correct data type affinities assigned for each column.
+* **CDB90.db**: a unified SQLite database compiled by me from the CSV files, with the correct data type affinities assigned for each column. Keep in mind that in SQLite datetime is stored as string, and boolean as integer (0, 1).
 * **originalpub**: the scanned PDF files for all six volumes of the USACAA study, describing the database and the conclusions of the initial analysis.
 
 ## To do
 
-* Add enum tables with expected values for certain columns.
 * Write a more complete documentation
 * Code scripts to query and plot that database.
 
