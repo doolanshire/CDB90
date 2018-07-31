@@ -10,6 +10,7 @@ The aim of this personal project is the analysis and expansion of the database f
 
 * **data**: directory containing the CSV files, as cleaned up by jrnold.
 * **src-data**: the original dataset also as presented by jrnold.
+* **CDB90.db**: a unified SQLite database compiled by me from the CSV files, with the correct data type affinities assigned for each column.
 * **originalpub**: the scanned PDF files for all six volumes of the USACAA study, describing the database and the conclusions of the initial analysis.
 
 ## To do
