@@ -1,6 +1,6 @@
 # CDB90
 
-This repository contains [professor Jeffrey Arnold's version](https://github.com/jrnold/CDB90) of the CDB90 Land Battle Database in CSV format, along with the original dataset created in the 1984 USACAA study *Analysis of Factors That Have Influenced Outcomes of Battles and Wars: A Data Base of Battles and Engagements*, also compiled by him.
+This repository contains [professor Jeffrey Arnold's version](https://github.com/jrnold/CDB90) of the CDB90 Land Battle Database in CSV format, along with the original dataset created in the 1984 USACAA study *Analysis of Factors That Have Influenced Outcomes of Battles and Wars: A Data Base of Battles and Engagements*, also as offered by him.
 
 I have compiled the CSV files into a single SQLite database for ease of use, and gathered the PDF scans for all six volumes of the original USACAA study.
 
