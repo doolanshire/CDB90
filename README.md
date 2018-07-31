@@ -14,11 +14,14 @@ The aim of this personal project is the analysis and expansion of the database f
 
 ## To do
 
-* Compile the CSV files into a single SQLite3 database.
+* Add enum tables with expected values for certain columns.
+* Write a more complete documentation
 * Code scripts to query and plot that database.
 
 ## License
 
-The data is released under the [odc-by](https://opendatacommons.org/licenses/by/) license as in the original release by [jrnold](https://github.com/jrnold/CDB90).
+The data in the *data* and *src-data* directories is released under the [odc-by](https://opendatacommons.org/licenses/by/) license as in the original release by [jrnold](https://github.com/jrnold/CDB90).
+
+The SQLite database made by the author of this repository is similarly released under the [odc-by](https://opendatacommons.org/licenses/by/) license.
 
 Any programs and scripts are [MIT license](https://opensource.org/licenses/MIT) unless stated otherwise.
