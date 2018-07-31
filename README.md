@@ -22,8 +22,10 @@ The aim of this personal project is the analysis and future expansion of the dat
 
 ## License
 
-The data in the *data* and *src-data* directories is released under the [odc-by](https://opendatacommons.org/licenses/by/) license as in the original release by [jrnold](https://github.com/jrnold/CDB90).
+The data in the *data* directory is released under the [odc-by](https://opendatacommons.org/licenses/by/) license as in the original release by [jrnold](https://github.com/jrnold/CDB90).
 
 The SQLite database made by the author of this repository is similarly released under the [odc-by](https://opendatacommons.org/licenses/by/) license.
+
+The original CDB90 data in *src-data/M000121* is Public Domain.
 
 Any programs and scripts are [MIT license](https://opensource.org/licenses/MIT) unless stated otherwise.
